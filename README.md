@@ -5,11 +5,11 @@
     1. **(Mac)** Open the Terminal app located in `/Applications/Utilities/Terminal.app`
     1. **(Windows)** Open Git Bash from the Start Menu.
 
-1. Create a new directory for Horizons course material and `cd` into it.
+1. Create a new directory for iCode course material and `cd` into it.
 
     ```bash
-    mkdir horizons
-    cd horizons
+    mkdir iCode
+    cd iCode
     ```
 
 1. Run `pwd` to confirm you're in the right directory.
@@ -18,18 +18,18 @@
     pwd
     ```
 
-    You should see that you're now in a directory named `horizons`:
+    You should see that you're now in a directory named `iCode`:
 
     ```
     $ pwd
-    YOUR HOME DIRECTORY HERE/horizons
+    YOUR HOME DIRECTORY HERE/iCode
     ```
 
 
 1. Clone the `iCode-prepwork` repository.
 
     ```bash
-    git clone git@github.com:horizons-school-of-technology/iCode-prepwork.git
+    git clone git@github.com:iCode-school-of-technology/iCode-prepwork.git
     ```
 
     This downloads a copy of the `iCode-prepwork` repo into a directory with the
@@ -75,7 +75,7 @@
 
     ```
     $ ./setup.sh
-    Update commit hooks in /Users/paksoy/Code/horizons/iCode-prepwork/.git
+    Update commit hooks in /Users/paksoy/Code/iCode/iCode-prepwork/.git
     Success! Your Git repository is ready to use
     ```
 
@@ -171,4 +171,4 @@ this repository. In this case you will see the branches created by fellow
 students (including yours).
 
 
-Congratulations! You're done setting up Atom and Git. Now you're ready to start your journey at Horizons!
+Congratulations! You're done setting up Atom and Git. Now you're ready to start your journey at iCode!
