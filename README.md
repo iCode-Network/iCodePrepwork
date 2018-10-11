@@ -1,5 +1,7 @@
 # iCodePrepwork
 
+# NOT DONE YET, NEEDS EDITING!!!
+
 1. Open your Terminal
 
     1. **(Mac)** Open the Terminal app located in `/Applications/Utilities/Terminal.app`
